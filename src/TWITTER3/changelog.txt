@@ -1,0 +1,9 @@
+OLD					NEW
+________________________________________________________________________
+
+Use ASCII value to find numbers		use binary code to find numbers	
+	
+________________________________________________________________________
+
+use basic math to derive numbers	Use Julia set fractal to  
+					derive numbers.

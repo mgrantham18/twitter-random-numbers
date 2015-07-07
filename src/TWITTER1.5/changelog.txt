@@ -1,0 +1,2 @@
+OLD					NEW
+use binary code to find numbers		Use ASCII value to find numbers
