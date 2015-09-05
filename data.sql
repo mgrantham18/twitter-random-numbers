@@ -1,1 +1,1 @@
-Ctrl-C -- exit!
+The data is downloadable from https://storage.googleapis.com/gc-cdn-runmyserver-com/twitter-random-numbers/dump.sql if you are interested. This file exceeded the github file size limit (it is 1.2 GB).
